@@ -15,8 +15,12 @@ I will start sharing more of my work and journey as a developer through other pl
 + [YouTube][yt]
 + [Dev Community][dev]
 
-## My skills as a developer ##
-__I need to remember to complete this section (it's getting late at the time of writing this.... yawn__)
+## What I am currently learning / reviewing ##
+
++ C# Master Class (Udemy)
++ 100 Days of Python (Udemy)
++ The Complete JavaScript Course (Udemy)
++ FrontendSimplified (Independent)
 
 ## What I plan on sharing next! ##
 This section might not be exciting to many but this is upcoming content that I will be releasing!  
