@@ -37,7 +37,7 @@ This section might not be exciting to many but this is upcoming content that I w
 [dev]:https://dev.to/codingwithcallum
 [yt]:https://www.youtube.com/
 [twi]:https://twitter.com/CodeCallum
-[lin]:(https://www.linkedin.com/in/codingwithcallum/)
+[lin]:https://www.linkedin.com/in/codingwithcallum/
 
 <!--
 **CodingWithCallum/CodingWithCallum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
