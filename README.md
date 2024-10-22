@@ -28,7 +28,7 @@ I will start sharing more of my work and journey as a developer through other pl
 ## What I plan on sharing next! ##
 This section might not be exciting to many but this is upcoming content that I will be releasing!  
 ### Blogs, topics, and discussions
-+ Guide: Becoming present online as a developer! (Starting up with GitHub, blogging your journey, and finding your development niche)
++ Guide: Becoming present and online as a developer! (Starting up with GitHub, blogging your journey, and finding your development niche)
 + Guide: GitHub ReadMe formatting.
 + Topic: My journey studying to become a developer. (Was it worth it? Was it what I imagined? What were the hard truths?)
 
