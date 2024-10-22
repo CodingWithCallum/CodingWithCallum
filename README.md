@@ -5,7 +5,7 @@ I am a 26 year old developer who just finished (in 2022 - graduated 2023) [his d
 
 ## What have I done? ##
 The short answer: not much, yet!  <!-- line break-->  
-My mind is always buzzing (thank you ADHD) which means there is a million and one ideas for projects or topics I would love to develop or discuss. In the past, I wrote this all down into a journal, A4 notepad, or napkin so I will never forget my ideas. However, I have now decided to start taking my journaling to [Dev Community][dev] where I will use it as a blog of sorts!
+My mind is always buzzing which means there is a million and one ideas for projects or topics I would love to develop or discuss. In the past, I wrote this all down into a journal, A4 notepad, or napkin so I will never forget my ideas. However, I have now decided to start taking my journaling to [Dev Community][dev] where I will use it as a blog of sorts!
 
 Oh, and of course, I will update this "what have I done" section as I start to share more!
 
@@ -18,10 +18,12 @@ I will start sharing more of my work and journey as a developer through other pl
 
 ## What I am currently learning / reviewing ##
 
-+ C# Master Class (Udemy)
-+ 100 Days of Python (Udemy)
-+ The Complete JavaScript Course (Udemy)
++ C# Master Class (Udemy) <-- Paused
++ 100 Days of Python (Udemy) <-- Ongoing
++ The Complete JavaScript Course (Udemy) <-- Paused
 + FrontendSimplified (Independent)
++ Scrimba (Independent)
++ Data Structures and Algorithms (Udemy) <-- Ongoing
 
 ## What I plan on sharing next! ##
 This section might not be exciting to many but this is upcoming content that I will be releasing!  
