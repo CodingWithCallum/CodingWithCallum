@@ -18,12 +18,12 @@ I will start sharing more of my work and journey as a developer through other pl
 
 ## What I am currently learning / reviewing ##
 
-+ C# Master Class (Udemy) <-- Paused
 + 100 Days of Python (Udemy) <-- Ongoing
++ Data Structures and Algorithms (Udemy) <-- Ongoing
++ C# Master Class (Udemy) <-- Paused
 + The Complete JavaScript Course (Udemy) <-- Paused
 + FrontendSimplified (Independent)
 + Scrimba (Independent)
-+ Data Structures and Algorithms (Udemy) <-- Ongoing
 
 ## What I plan on sharing next! ##
 This section might not be exciting to many but this is upcoming content that I will be releasing!  
