@@ -1,6 +1,7 @@
 # Howzit! 👋 I'm Callum Barry. Welcome to CodingWithCallum! #
 ## Who am I? ##
-I am a 25 year old developer who just finished (in 2022) [his degree](https://www.varsitycollege.co.za/programmes/full-time/bachelor-of-technology-information-studies) in application development. As of today, I am starting to journey on GitHub and look forward to producing useful content, meaningful contributions, and engage with the exciting world of development! I won't bore you with more about me other than my love for photography, passion for esports, and why Star Wars was a blessing to mankind!
+I am a 26 year old developer who just finished (in 2022 - graduated 2023) [his degree](https://www.varsitycollege.co.za/programmes/full-time/bachelor-of-technology-information-studies) in application development. As of today, I am starting to journey on GitHub and look forward to producing useful content, meaningful contributions, and engage with the exciting world of development! I won't bore you with more about me other than my love for photography, passion for esports, and why Star Wars was a blessing to mankind!  <!-- line break-->  
+(unfortunately, life tooks turns - I am returning to this side project as of 20/10/2024)
 
 ## What have I done? ##
 The short answer: not much, yet!  <!-- line break-->  
