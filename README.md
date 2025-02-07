@@ -18,19 +18,19 @@ I will start sharing more of my work and journey as a developer through other pl
 
 ## What I am currently learning / reviewing ##
 ### Learning related to my current work ###
-+ R (CodeAcademy) <-- Ongoing
-+ SQL (CodeAcademy) <-- Up Next
-+ Python <-- Up Next
++ R (CodeAcademy) |> Ongoing
++ SQL (CodeAcademy) |> Up Next
++ Python |> Up Next
 
 ### Learning for my passion for development ###
-+ C# <-- Refreshing due to time since last C# project.
++ C# |> Refreshing due to time since last C# project.
 
 ## What I plan on sharing next! ##
 This section might not be exciting to many but this is upcoming content that I will be releasing!  
 ### Blogs, topics, and discussions
-+ Guide: GitHub ReadMe formatting. <-- We are here!
-+ Guide: Becoming present and online as a developer! (Starting up with GitHub, blogging your journey, and finding your development niche) <-- Drafting phase
-+ Topic: My journey studying to become a developer. (Was it worth it? Was it what I imagined? What were the hard truths?) <-- Up Next
++ Guide: GitHub ReadMe formatting. |> We are here!
++ Guide: Becoming present and online as a developer! (Starting up with GitHub, blogging, and finding your niche) |> Drafting phase
++ Topic: My journey studying to become a developer. (Was it worth it? Was it what I imagined? What were the hard truths?) |> Up Next
 
 ### Side projects
 + Website: My own portfolio using React and Material UI
