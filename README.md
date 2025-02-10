@@ -23,6 +23,7 @@ I will start sharing more of my work and journey as a developer through other pl
 + Python |> Up Next
 
 ### Learning for my passion for development ###
++ React |> Started learning this when I started making my first website/portfolio piece.
 + C# |> Refreshing due to time since last C# project.
 
 ## What I plan on sharing next! ##
